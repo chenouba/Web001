@@ -32,6 +32,7 @@ public class HelloTest {
 
         arrayList.add(1);
         arrayList.add(1);
+        arrayList.add(222);
     }
 
     /**
